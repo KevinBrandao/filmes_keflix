@@ -1,0 +1,39 @@
+.container {
+    max-width: 800px;
+    margin: 14px auto;
+}
+
+.container article {
+    width: 100%;
+    background-color: white;
+    padding: 15px;
+    border-radius: 4px;
+}
+
+.container article strong {
+    margin-bottom: 14px;
+    text-align: center;
+    font-size: 22px;
+    display: block;
+}
+
+.container article img {
+    width: 100%; /* Define a largura como 100% para ocupar o espaço disponível */
+    max-height: 340px; /* Mantém a altura máxima */
+    object-fit: cover;
+    display: block;
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+}
+
+.container article a {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 10px 0;
+    font-size: 24px;
+    background-color: blue;
+    text-decoration: none;
+    color: white;
+    border-radius: 0 0 8px 8px; /* Ajusta a borda do link */
+}
