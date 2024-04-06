@@ -18,6 +18,8 @@ function Home(){
                 }
             } )
             setFilmes(response.data.results.slice(0, 10));
+            setLoading(false)
+
             console.log(response.data.results.slice(0, 10));
     }
     loadFilmes();
