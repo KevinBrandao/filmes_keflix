@@ -30,7 +30,7 @@ A página será recarregada quando você fizer alterações.
 Você também pode ver erros de lint no console.
 
 ## Imagens da aplicação rodando
-
+![alt text](public/imagem/responsivomobile.jpeg)
 ![Imagem da Home](public/imagem/home.jpeg)
 ![Imagem sobre as caracteristicas do filme](public/imagem/sobre.jpeg)
 ![Imagem de quando o filme esta com algum erro ao traser sua sinopse](public/imagem/paginadeerro.jpeg)
