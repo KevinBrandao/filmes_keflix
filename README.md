@@ -1,4 +1,6 @@
 # PROJECT: FILMES KEFLIX
+## Link do site
+### https://profound-capybara-a532ca.netlify.app/
 
 ## Sobre o projeto
 È uma aplicação feita totalmente em React
