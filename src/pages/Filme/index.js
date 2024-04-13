@@ -31,7 +31,6 @@ function Filme() {
 
         loadFilme();
 
-        // Função de limpeza do useEffect
         return () => {
             console.log("Componente foi desmontado");
         };
